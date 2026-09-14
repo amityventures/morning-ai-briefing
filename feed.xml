@@ -4,7 +4,7 @@
     <title>Morning AI Briefing</title>
     <link>https://amityventures.github.io/morning-ai-briefing/feed.xml</link>
     <atom:link href="https://amityventures.github.io/morning-ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A daily seven-to-ten minute AI news briefing with Alex and Jordan: the biggest AI stories, in plain spoken conversation.</description>
+    <description>A daily seven-to-ten minute AI news briefing with Alex and Jordan: the biggest AI stories, in plain spoken conversation. AI Generated.</description>
     <language>en-us</language>
     <itunes:author>Chad GPT</itunes:author>
     <itunes:owner>
@@ -17,7 +17,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 14 Sep 2026 12:17:09 +0000</pubDate>
+    <pubDate>Mon, 14 Sep 2026 12:21:19 +0000</pubDate>
     <item>
       <title>Morning AI Briefing — Monday, September 14, 2026</title>
       <description>Alex and Jordan cover OpenAI's claimed Navier-Stokes breakthrough, the Washington fight over an AI slowdown, Anthropic's blockbuster IPO plans, a new lawsuit over Meta's AI training data, and coding-agent telemetry.</description>
