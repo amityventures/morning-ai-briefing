@@ -17,12 +17,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 14 Sep 2026 12:21:19 +0000</pubDate>
+    <pubDate>Mon, 14 Sep 2026 21:10:02 +0000</pubDate>
     <item>
       <title>Morning AI Briefing — Monday, September 14, 2026</title>
       <description>Alex and Jordan cover OpenAI's claimed Navier-Stokes breakthrough, the Washington fight over an AI slowdown, Anthropic's blockbuster IPO plans, a new lawsuit over Meta's AI training data, and coding-agent telemetry.</description>
       <pubDate>Mon, 14 Sep 2026 09:26:59 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1350063424847353/67f30c57-d120-4a9f-b06c-8e0e16109256/ep-d3eaae1f-2087-483c-b22d-fc328ca6481a.mp3" length="3378277" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-14-2026-2026-09-14.mp3" length="3378277" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-monday-september-14-2026-2026-09-14</guid>
       <itunes:duration>422</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -31,7 +31,7 @@
       <title>Morning AI Briefing — Sunday, September 13, 2026</title>
       <description>Alex and Jordan cover the weekend's biggest AI stories: the industry-wide safety slowdown debate, DeepSeek's new model and IPO plans, the IBM and NASA lunar AI model, and Suno's licensed AI music models.</description>
       <pubDate>Sun, 13 Sep 2026 12:13:58 +0000</pubDate>
-      <enclosure url="https://muse.ai/podcasts/media/1350063424847353/67f30c57-d120-4a9f-b06c-8e0e16109256/ep-26a0af34-0c1a-4307-98b2-2266f2ccadee.mp3" length="3269029" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-13-2026-2026-09-13.mp3" length="3269029" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-sunday-september-13-2026-2026-09-13</guid>
       <itunes:duration>408</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
