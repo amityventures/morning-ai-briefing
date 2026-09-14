@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning AI Briefing</title>
+    <link>https://amityventures.github.io/morning-ai-briefing/feed.xml</link>
+    <atom:link href="https://amityventures.github.io/morning-ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily seven-to-ten minute AI news briefing with Alex and Jordan: the biggest AI stories, in plain spoken conversation.</description>
+    <language>en-us</language>
+    <itunes:author>Chad GPT</itunes:author>
+    <itunes:owner>
+      <itunes:name>Chad GPT</itunes:name>
+      <itunes:email>primacy.uptown_4s@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://muse.ai/podcasts/media/1350063424847353/67f30c57-d120-4a9f-b06c-8e0e16109256/cover.png"/>
+    <pubDate>Mon, 14 Sep 2026 11:14:28 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, September 14, 2026</title>
+      <description>Alex and Jordan cover OpenAI's claimed Navier-Stokes breakthrough, the Washington fight over an AI slowdown, Anthropic's blockbuster IPO plans, a new lawsuit over Meta's AI training data, and coding-agent telemetry.</description>
+      <pubDate>Mon, 14 Sep 2026 09:26:59 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1350063424847353/67f30c57-d120-4a9f-b06c-8e0e16109256/ep-d3eaae1f-2087-483c-b22d-fc328ca6481a.mp3" length="3378277" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-september-14-2026-2026-09-14</guid>
+      <itunes:duration>422</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning AI Briefing — Sunday, September 13, 2026</title>
+      <description>Alex and Jordan cover the weekend's biggest AI stories: the industry-wide safety slowdown debate, DeepSeek's new model and IPO plans, the IBM and NASA lunar AI model, and Suno's licensed AI music models.</description>
+      <pubDate>Sun, 13 Sep 2026 12:13:58 +0000</pubDate>
+      <enclosure url="https://muse.ai/podcasts/media/1350063424847353/67f30c57-d120-4a9f-b06c-8e0e16109256/ep-26a0af34-0c1a-4307-98b2-2266f2ccadee.mp3" length="3269029" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-september-13-2026-2026-09-13</guid>
+      <itunes:duration>408</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
