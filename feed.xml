@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 14 Sep 2026 21:10:02 +0000</pubDate>
+    <pubDate>Tue, 15 Sep 2026 09:14:43 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, September 15, 2026</title>
+      <description>Alex and Jordan cover Apple's Siri AI launch on iOS 27 with Google's Gemini behind the training, a proposed industry standards body for AI, falling chip stocks, the DOJ's probe of Nvidia's Groq deal, and more.</description>
+      <pubDate>Tue, 15 Sep 2026 09:10:39 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-15-2026-2026-09-15.mp3" length="2900965" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-september-15-2026-2026-09-15</guid>
+      <itunes:duration>362</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, September 14, 2026</title>
       <description>Alex and Jordan cover OpenAI's claimed Navier-Stokes breakthrough, the Washington fight over an AI slowdown, Anthropic's blockbuster IPO plans, a new lawsuit over Meta's AI training data, and coding-agent telemetry.</description>
