@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morning AI Briefing</title>
-    <link>https://amityventures.github.io/morning-ai-briefing/feed.xml</link>
+    <link>https://amityventures.github.io/morning-ai-briefing/</link>
     <atom:link href="https://amityventures.github.io/morning-ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily seven-to-ten minute AI news briefing with Alex and Jordan: the biggest AI stories, in plain spoken conversation. AI Generated.</description>
     <language>en-us</language>
@@ -17,7 +17,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 16 Sep 2026 09:04:10 +0000</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:01 +0000</pubDate>
     <item>
       <title>Morning AI Briefing — Wednesday, September 16, 2026</title>
       <description>Alex and Jordan cover Salesforce and Nvidia's open-weight Koa reasoning model, OpenAI's push behind AI biosafety bills in Congress, Spain's first reported AI-agent data breach, Factory's five-billion-dollar raise, and the growing safety debate.</description>
