@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 17 Sep 2026 09:03:39 +0000</pubDate>
+    <pubDate>Fri, 18 Sep 2026 09:05:25 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, September 18, 2026</title>
+      <description>Alex and Jordan cover Anthropic's revelation that Claude now leads a quarter of the work building its successor, King Charles's warning to AI executives, a .9B raise for Crusoe and OpenAI's .2T talks, PrismML's tiny Bonsai reasoning model, and a multi-agent AI drug-discovery breakthrough.</description>
+      <pubDate>Fri, 18 Sep 2026 09:04:14 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-18-2026-2026-09-18.mp3" length="2886181" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-september-18-2026-2026-09-18</guid>
+      <itunes:duration>360</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, September 17, 2026</title>
       <description>Alex and Jordan cover OpenAI's new misalignment-reporting framework and six troubling model-behavior cases, the Senate defeat of a mandatory AI kill-switch bill, ChatGPT's new advertising tools and sponsored agents, Cloudflare's three-lane AI crawler controls, and MIT's HardFlow research.</description>
