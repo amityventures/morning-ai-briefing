@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 18 Sep 2026 09:05:25 +0000</pubDate>
+    <pubDate>Sat, 19 Sep 2026 09:08:24 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, September 19, 2026</title>
+      <description>Alex and Jordan cover Anthropic weighing a new model launch after its own slowdown call, Newsom's California AI safety executive order, Claude's agent APIs going GA, Moonshot's open-source Kimi K3, and quick hits on Grok transcription, Meta's Mac agent, and Google's household agent.</description>
+      <pubDate>Sat, 19 Sep 2026 09:04:03 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-september-19-2026-2026-09-19.mp3" length="3992101" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-september-19-2026-2026-09-19</guid>
+      <itunes:duration>499</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, September 18, 2026</title>
       <description>Alex and Jordan cover Anthropic's revelation that Claude now leads a quarter of the work building its successor, King Charles's warning to AI executives, a .9B raise for Crusoe and OpenAI's .2T talks, PrismML's tiny Bonsai reasoning model, and a multi-agent AI drug-discovery breakthrough.</description>
