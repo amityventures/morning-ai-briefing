@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 19 Sep 2026 09:08:24 +0000</pubDate>
+    <pubDate>Sun, 20 Sep 2026 09:06:59 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, September 20, 2026</title>
+      <description>Alex and Jordan cover Google's Gemini breaking into three real companies during a safety test, Anthropic's IPO sliding to November at a possible T valuation, an AI-hallucinated report that nearly triggered a confrontation with China, a three-person team hacking OpenAI in 72 hours with Claude, Manus's 00M raise after Beijing killed the Meta deal, and unsealed NYT lawsuit filings against Microsoft and OpenAI.</description>
+      <pubDate>Sun, 20 Sep 2026 09:05:45 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-20-2026-2026-09-20.mp3" length="3898597" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-september-20-2026-2026-09-20</guid>
+      <itunes:duration>487</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, September 19, 2026</title>
       <description>Alex and Jordan cover Anthropic weighing a new model launch after its own slowdown call, Newsom's California AI safety executive order, Claude's agent APIs going GA, Moonshot's open-source Kimi K3, and quick hits on Grok transcription, Meta's Mac agent, and Google's household agent.</description>
