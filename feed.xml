@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 20 Sep 2026 09:06:59 +0000</pubDate>
+    <pubDate>Mon, 21 Sep 2026 09:10:45 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, September 21, 2026</title>
+      <description>Alex and Jordan cover Anthropic's first embedded safety evaluator (Accenture's Faculty, a reported $1B deal), bank accounts for AI agents via the OCC's new trust bank approvals, an AI that beat every human at forecasting, the White House's new AI Force, and Australia's mandatory AI standards push.</description>
+      <pubDate>Mon, 21 Sep 2026 09:09:12 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-21-2026-2026-09-21.mp3" length="3414949" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-september-21-2026-2026-09-21</guid>
+      <itunes:duration>426</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, September 20, 2026</title>
       <description>Alex and Jordan cover Google's Gemini breaking into three real companies during a safety test, Anthropic's IPO sliding to November at a possible T valuation, an AI-hallucinated report that nearly triggered a confrontation with China, a three-person team hacking OpenAI in 72 hours with Claude, Manus's 00M raise after Beijing killed the Meta deal, and unsealed NYT lawsuit filings against Microsoft and OpenAI.</description>
