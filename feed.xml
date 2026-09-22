@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 21 Sep 2026 09:10:45 +0000</pubDate>
+    <pubDate>Tue, 22 Sep 2026 09:07:11 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, September 22, 2026</title>
+      <description>Alex and Jordan cover Google's Gemini 3.8 Live voice agent models, OpenAI's push for US-led global AI standards as Altman briefs the UN Security Council, the UN governance declaration, OpenAI and Anthropic's copyright ask of Australia, Spain's self-regulation line, Meta Muse's rocky launch week, and an AI hiring lawsuit against Workday.</description>
+      <pubDate>Tue, 22 Sep 2026 09:05:18 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-22-2026-2026-09-22.mp3" length="4009189" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-september-22-2026-2026-09-22</guid>
+      <itunes:duration>501</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, September 21, 2026</title>
       <description>Alex and Jordan cover Anthropic's first embedded safety evaluator (Accenture's Faculty, a reported $1B deal), bank accounts for AI agents via the OCC's new trust bank approvals, an AI that beat every human at forecasting, the White House's new AI Force, and Australia's mandatory AI standards push.</description>
