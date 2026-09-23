@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 22 Sep 2026 09:07:11 +0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 09:11:13 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, September 23, 2026</title>
+      <description>Alex and Jordan cover the AI model price war as Anthropic launches Claude Opus 5.5 and OpenAI answers with GPT-6 Sol and Luna, Xiaomi's trillion-parameter open-weight model with a live-streamed training run, the UK Parliament summoning the big four labs over AI security, the fight over who pays for AI's power, and Goldman's numbers on the AI hiring slowdown.</description>
+      <pubDate>Wed, 23 Sep 2026 09:09:49 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-23-2026-2026-09-23.mp3" length="3811813" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-september-23-2026-2026-09-23</guid>
+      <itunes:duration>476</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, September 22, 2026</title>
       <description>Alex and Jordan cover Google's Gemini 3.8 Live voice agent models, OpenAI's push for US-led global AI standards as Altman briefs the UN Security Council, the UN governance declaration, OpenAI and Anthropic's copyright ask of Australia, Spain's self-regulation line, Meta Muse's rocky launch week, and an AI hiring lawsuit against Workday.</description>
