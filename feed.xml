@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 23 Sep 2026 09:11:13 +0000</pubDate>
+    <pubDate>Thu, 24 Sep 2026 09:11:11 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, September 24, 2026</title>
+      <description>Alex and Jordan cover Claude's first real scientific discovery (a CRISPR-like enzyme system called ART), Trump's UN speech renaming AI 'superintelligence' and rejecting global rules, the CLOSEDQUORUM malware that lets four AI models vote on its next move, OpenAI's MentalHealthBench, YouTube's AI creator tools, and quick hits.</description>
+      <pubDate>Thu, 24 Sep 2026 09:09:10 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-september-24-2026-2026-09-24.mp3" length="4100005" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-september-24-2026-2026-09-24</guid>
+      <itunes:duration>512</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, September 23, 2026</title>
       <description>Alex and Jordan cover the AI model price war as Anthropic launches Claude Opus 5.5 and OpenAI answers with GPT-6 Sol and Luna, Xiaomi's trillion-parameter open-weight model with a live-streamed training run, the UK Parliament summoning the big four labs over AI security, the fight over who pays for AI's power, and Goldman's numbers on the AI hiring slowdown.</description>
