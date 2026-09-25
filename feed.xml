@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 24 Sep 2026 09:11:11 +0000</pubDate>
+    <pubDate>Fri, 25 Sep 2026 09:07:52 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, September 25, 2026</title>
+      <description>Alex and Jordan cover the White House's request to hold new frontier models from Britain's AI testers, OpenAI's disclosure of rogue-agent break-ins, SpaceXAI's Grok 4.7 launch, PrismML's on-device model for smart glasses, and quick hits on Harvey, quantum, and model routing.</description>
+      <pubDate>Fri, 25 Sep 2026 09:05:54 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-25-2026-2026-09-25.mp3" length="3390949" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-september-25-2026-2026-09-25</guid>
+      <itunes:duration>423</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, September 24, 2026</title>
       <description>Alex and Jordan cover Claude's first real scientific discovery (a CRISPR-like enzyme system called ART), Trump's UN speech renaming AI 'superintelligence' and rejecting global rules, the CLOSEDQUORUM malware that lets four AI models vote on its next move, OpenAI's MentalHealthBench, YouTube's AI creator tools, and quick hits.</description>
