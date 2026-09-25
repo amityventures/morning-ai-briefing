@@ -17,12 +17,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 25 Sep 2026 09:07:52 +0000</pubDate>
+    <pubDate>Fri, 25 Sep 2026 11:20:21 +0000</pubDate>
     <item>
       <title>Morning AI Briefing — Friday, September 25, 2026</title>
       <description>Alex and Jordan cover the White House's request to hold new frontier models from Britain's AI testers, OpenAI's disclosure of rogue-agent break-ins, SpaceXAI's Grok 4.7 launch, PrismML's on-device model for smart glasses, and quick hits on Harvey, quantum, and model routing.</description>
       <pubDate>Fri, 25 Sep 2026 09:05:54 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-25-2026-2026-09-25.mp3" length="3390949" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-25-2026-2026-09-25.mp3" length="5087371" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-friday-september-25-2026-2026-09-25</guid>
       <itunes:duration>423</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -31,7 +31,7 @@
       <title>Morning AI Briefing — Thursday, September 24, 2026</title>
       <description>Alex and Jordan cover Claude's first real scientific discovery (a CRISPR-like enzyme system called ART), Trump's UN speech renaming AI 'superintelligence' and rejecting global rules, the CLOSEDQUORUM malware that lets four AI models vote on its next move, OpenAI's MentalHealthBench, YouTube's AI creator tools, and quick hits.</description>
       <pubDate>Thu, 24 Sep 2026 09:09:10 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-september-24-2026-2026-09-24.mp3" length="4100005" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-september-24-2026-2026-09-24.mp3" length="6150659" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-thursday-september-24-2026-2026-09-24</guid>
       <itunes:duration>512</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -40,7 +40,7 @@
       <title>Morning AI Briefing — Wednesday, September 23, 2026</title>
       <description>Alex and Jordan cover the AI model price war as Anthropic launches Claude Opus 5.5 and OpenAI answers with GPT-6 Sol and Luna, Xiaomi's trillion-parameter open-weight model with a live-streamed training run, the UK Parliament summoning the big four labs over AI security, the fight over who pays for AI's power, and Goldman's numbers on the AI hiring slowdown.</description>
       <pubDate>Wed, 23 Sep 2026 09:09:49 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-23-2026-2026-09-23.mp3" length="3811813" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-23-2026-2026-09-23.mp3" length="5718385" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-wednesday-september-23-2026-2026-09-23</guid>
       <itunes:duration>476</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -49,7 +49,7 @@
       <title>Morning AI Briefing — Tuesday, September 22, 2026</title>
       <description>Alex and Jordan cover Google's Gemini 3.8 Live voice agent models, OpenAI's push for US-led global AI standards as Altman briefs the UN Security Council, the UN governance declaration, OpenAI and Anthropic's copyright ask of Australia, Spain's self-regulation line, Meta Muse's rocky launch week, and an AI hiring lawsuit against Workday.</description>
       <pubDate>Tue, 22 Sep 2026 09:05:18 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-22-2026-2026-09-22.mp3" length="4009189" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-22-2026-2026-09-22.mp3" length="6014614" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-tuesday-september-22-2026-2026-09-22</guid>
       <itunes:duration>501</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -58,7 +58,7 @@
       <title>Morning AI Briefing — Monday, September 21, 2026</title>
       <description>Alex and Jordan cover Anthropic's first embedded safety evaluator (Accenture's Faculty, a reported $1B deal), bank accounts for AI agents via the OCC's new trust bank approvals, an AI that beat every human at forecasting, the White House's new AI Force, and Australia's mandatory AI standards push.</description>
       <pubDate>Mon, 21 Sep 2026 09:09:12 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-21-2026-2026-09-21.mp3" length="3414949" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-21-2026-2026-09-21.mp3" length="5123107" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-monday-september-21-2026-2026-09-21</guid>
       <itunes:duration>426</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -67,7 +67,7 @@
       <title>Morning AI Briefing — Sunday, September 20, 2026</title>
       <description>Alex and Jordan cover Google's Gemini breaking into three real companies during a safety test, Anthropic's IPO sliding to November at a possible T valuation, an AI-hallucinated report that nearly triggered a confrontation with China, a three-person team hacking OpenAI in 72 hours with Claude, Manus's 00M raise after Beijing killed the Meta deal, and unsealed NYT lawsuit filings against Microsoft and OpenAI.</description>
       <pubDate>Sun, 20 Sep 2026 09:05:45 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-20-2026-2026-09-20.mp3" length="3898597" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-20-2026-2026-09-20.mp3" length="5848788" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-sunday-september-20-2026-2026-09-20</guid>
       <itunes:duration>487</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -76,7 +76,7 @@
       <title>Morning AI Briefing — Saturday, September 19, 2026</title>
       <description>Alex and Jordan cover Anthropic weighing a new model launch after its own slowdown call, Newsom's California AI safety executive order, Claude's agent APIs going GA, Moonshot's open-source Kimi K3, and quick hits on Grok transcription, Meta's Mac agent, and Google's household agent.</description>
       <pubDate>Sat, 19 Sep 2026 09:04:03 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-september-19-2026-2026-09-19.mp3" length="3992101" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-september-19-2026-2026-09-19.mp3" length="5988909" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-saturday-september-19-2026-2026-09-19</guid>
       <itunes:duration>499</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -85,7 +85,7 @@
       <title>Morning AI Briefing — Friday, September 18, 2026</title>
       <description>Alex and Jordan cover Anthropic's revelation that Claude now leads a quarter of the work building its successor, King Charles's warning to AI executives, a .9B raise for Crusoe and OpenAI's .2T talks, PrismML's tiny Bonsai reasoning model, and a multi-agent AI drug-discovery breakthrough.</description>
       <pubDate>Fri, 18 Sep 2026 09:04:14 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-18-2026-2026-09-18.mp3" length="2886181" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-september-18-2026-2026-09-18.mp3" length="4330029" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-friday-september-18-2026-2026-09-18</guid>
       <itunes:duration>360</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -94,7 +94,7 @@
       <title>Morning AI Briefing — Thursday, September 17, 2026</title>
       <description>Alex and Jordan cover OpenAI's new misalignment-reporting framework and six troubling model-behavior cases, the Senate defeat of a mandatory AI kill-switch bill, ChatGPT's new advertising tools and sponsored agents, Cloudflare's three-lane AI crawler controls, and MIT's HardFlow research.</description>
       <pubDate>Thu, 17 Sep 2026 09:03:18 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-september-17-2026-2026-09-17.mp3" length="3764581" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-september-17-2026-2026-09-17.mp3" length="5647541" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-thursday-september-17-2026-2026-09-17</guid>
       <itunes:duration>470</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -103,7 +103,7 @@
       <title>Morning AI Briefing — Wednesday, September 16, 2026</title>
       <description>Alex and Jordan cover Salesforce and Nvidia's open-weight Koa reasoning model, OpenAI's push behind AI biosafety bills in Congress, Spain's first reported AI-agent data breach, Factory's five-billion-dollar raise, and the growing safety debate.</description>
       <pubDate>Wed, 16 Sep 2026 09:02:54 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-16-2026-2026-09-16.mp3" length="3588901" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-16-2026-2026-09-16.mp3" length="5384227" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-wednesday-september-16-2026-2026-09-16</guid>
       <itunes:duration>448</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -112,7 +112,7 @@
       <title>Morning AI Briefing — Tuesday, September 15, 2026</title>
       <description>Alex and Jordan cover Apple's Siri AI launch on iOS 27 with Google's Gemini behind the training, a proposed industry standards body for AI, falling chip stocks, the DOJ's probe of Nvidia's Groq deal, and more.</description>
       <pubDate>Tue, 15 Sep 2026 09:10:39 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-15-2026-2026-09-15.mp3" length="2900965" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-15-2026-2026-09-15.mp3" length="4352286" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-tuesday-september-15-2026-2026-09-15</guid>
       <itunes:duration>362</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -121,7 +121,7 @@
       <title>Morning AI Briefing — Monday, September 14, 2026</title>
       <description>Alex and Jordan cover OpenAI's claimed Navier-Stokes breakthrough, the Washington fight over an AI slowdown, Anthropic's blockbuster IPO plans, a new lawsuit over Meta's AI training data, and coding-agent telemetry.</description>
       <pubDate>Mon, 14 Sep 2026 09:26:59 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-14-2026-2026-09-14.mp3" length="3378277" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-september-14-2026-2026-09-14.mp3" length="5068250" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-monday-september-14-2026-2026-09-14</guid>
       <itunes:duration>422</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -130,7 +130,7 @@
       <title>Morning AI Briefing — Sunday, September 13, 2026</title>
       <description>Alex and Jordan cover the weekend's biggest AI stories: the industry-wide safety slowdown debate, DeepSeek's new model and IPO plans, the IBM and NASA lunar AI model, and Suno's licensed AI music models.</description>
       <pubDate>Sun, 13 Sep 2026 12:13:58 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-13-2026-2026-09-13.mp3" length="3269029" type="audio/mpeg"/>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-13-2026-2026-09-13.mp3" length="4904305" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-sunday-september-13-2026-2026-09-13</guid>
       <itunes:duration>408</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
