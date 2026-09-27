@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 26 Sep 2026 16:44:16 +0000</pubDate>
+    <pubDate>Sun, 27 Sep 2026 09:11:19 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, September 27, 2026</title>
+      <description>Alex and Jordan cover OpenAI's GPT-6 Cyber preview expected at Tuesday's DevDay, the Sanders-Casar bill to ban superintelligence, Anthropic's IPO delay to November, Meta's Muse hitting number one on the App Store, and quick hits on Akamai, Mistral, Microsoft, and ChatGPT ads.</description>
+      <pubDate>Sun, 27 Sep 2026 09:03:58 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-september-27-2026-2026-09-27.mp3" length="5775437" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-september-27-2026-2026-09-27</guid>
+      <itunes:duration>481</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, September 26, 2026</title>
       <description>Alex and Jordan cover the same-day AI price war as OpenAI's GPT-6 Sol/Luna and Anthropic's Claude Opus 5.5 cut prices, Microsoft's Copilot revamp with Code and Autopilot, the labs' planned self-regulatory safety body SAFA, Meta's Connect hardware blitz led by the Muse Charm, and quick hits on Accenture, Verda, Gemini 4, and Trump's AI Force.</description>
