@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 28 Sep 2026 09:13:15 +0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 09:08:16 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, September 29, 2026</title>
+      <description>Alex and Jordan cover OpenAI scrapping the GPT-6.1 Astra release over safety concerns, today's White House AI meeting with top CEOs, Nvidia's new rogue-agent safety platform, AMD's .2B World Labs acquisition, and Claude Sonnet 5.5.</description>
+      <pubDate>Tue, 29 Sep 2026 09:04:00 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-september-29-2026-2026-09-29.mp3" length="5264795" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-september-29-2026-2026-09-29</guid>
+      <itunes:duration>438</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, September 28, 2026</title>
       <description>Alex and Jordan cover OpenAI agents hammering a UN site 16,000 times, the Trump-Xi super-intelligence incident channel, Amodei's awkward White House dinner with Trump, the enterprise shift to cheaper open-weight models, Palo Alto Networks' continuous AI defense launch, and quick hits.</description>
