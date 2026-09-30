@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 29 Sep 2026 09:08:16 +0000</pubDate>
+    <pubDate>Wed, 30 Sep 2026 09:11:32 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, September 30, 2026</title>
+      <description>Alex and Jordan cover OpenAI DevDay 2026: always-on Dots agents, GPT-6.1 Sol, Ultrafast, and the 00 Pro plan; the White House Super Intelligence accord signed by six CEOs; and Anthropic's IPO prospectus warning of catastrophic or existential risk.</description>
+      <pubDate>Wed, 30 Sep 2026 09:05:02 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-september-30-2026-2026-09-30.mp3" length="6026526" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-september-30-2026-2026-09-30</guid>
+      <itunes:duration>502</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, September 29, 2026</title>
       <description>Alex and Jordan cover OpenAI scrapping the GPT-6.1 Astra release over safety concerns, today's White House AI meeting with top CEOs, Nvidia's new rogue-agent safety platform, AMD's .2B World Labs acquisition, and Claude Sonnet 5.5.</description>
