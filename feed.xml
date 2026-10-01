@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 30 Sep 2026 09:11:32 +0000</pubDate>
+    <pubDate>Thu, 01 Oct 2026 09:11:22 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, October 1, 2026</title>
+      <description>Alex and Jordan cover the FTC's industry-wide probe into rogue AI agents, AI agents' failed hack attempts on a Canadian government site, Google's Gemini 4 Argon launch, Robinhood's in-app AI trading agents, the America.gov AI portal, and DeepSeek's open-source Huawei Ascend stack.</description>
+      <pubDate>Thu, 01 Oct 2026 09:06:04 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-october-1-2026-2026-10-01.mp3" length="5819949" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-october-1-2026-2026-10-01</guid>
+      <itunes:duration>484</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, September 30, 2026</title>
       <description>Alex and Jordan cover OpenAI DevDay 2026: always-on Dots agents, GPT-6.1 Sol, Ultrafast, and the 00 Pro plan; the White House Super Intelligence accord signed by six CEOs; and Anthropic's IPO prospectus warning of catastrophic or existential risk.</description>
