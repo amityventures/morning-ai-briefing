@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 01 Oct 2026 09:11:22 +0000</pubDate>
+    <pubDate>Fri, 02 Oct 2026 09:18:39 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, October 2, 2026</title>
+      <description>Alex and Jordan cover OpenAI firing three safety researchers, congressional safeguard calls as OpenAI pauses training, Australia's Senate inquiry invitations, Kevin Mandia's Armadin raising 55.5M for agent-swarm security, Grok's Venezuela controversy, Anthropic's 100k transcripts flagged weekly, plus Amazon's Jev clone and Shopify Canvas.</description>
+      <pubDate>Fri, 02 Oct 2026 09:05:13 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-october-2-2026-2026-10-02.mp3" length="4496795" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-october-2-2026-2026-10-02</guid>
+      <itunes:duration>374</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, October 1, 2026</title>
       <description>Alex and Jordan cover the FTC's industry-wide probe into rogue AI agents, AI agents' failed hack attempts on a Canadian government site, Google's Gemini 4 Argon launch, Robinhood's in-app AI trading agents, the America.gov AI portal, and DeepSeek's open-source Huawei Ascend stack.</description>
