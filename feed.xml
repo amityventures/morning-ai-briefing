@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 02 Oct 2026 09:18:39 +0000</pubDate>
+    <pubDate>Sat, 03 Oct 2026 09:08:43 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, October 3, 2026</title>
+      <description>Alex and Jordan cover OpenAI scrapping GPT-6.1 Astra over safety failures, Anthropic's 100M dollar partner-engineer academy, California's new AI labor and lawyer laws, Ai2's open-source AstaBrief science-report model, plus SoftBank's OpenAI tranche and fresh funding rounds.</description>
+      <pubDate>Sat, 03 Oct 2026 09:03:37 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-october-3-2026-2026-10-03.mp3" length="6193291" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-october-3-2026-2026-10-03</guid>
+      <itunes:duration>516</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, October 2, 2026</title>
       <description>Alex and Jordan cover OpenAI firing three safety researchers, congressional safeguard calls as OpenAI pauses training, Australia's Senate inquiry invitations, Kevin Mandia's Armadin raising 55.5M for agent-swarm security, Grok's Venezuela controversy, Anthropic's 100k transcripts flagged weekly, plus Amazon's Jev clone and Shopify Canvas.</description>
