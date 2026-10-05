@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 04 Oct 2026 09:06:43 +0000</pubDate>
+    <pubDate>Mon, 05 Oct 2026 09:08:02 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, October 5, 2026</title>
+      <description>Alex and Jordan cover Yann LeCun's broadside against AI doomsday warnings, the tightening legal vise on OpenAI and Anthropic from the FTC and state attorneys general, the arrest of a California CEO over 00M in AI chip smuggling to China, and Google's launch of AI chips into orbit.</description>
+      <pubDate>Mon, 05 Oct 2026 09:02:47 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-october-5-2026-2026-10-05.mp3" length="6191097" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-october-5-2026-2026-10-05</guid>
+      <itunes:duration>515</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, October 4, 2026</title>
       <description>Alex and Jordan cover the White House Super Intelligence Force and its 120-day review, Sam Altman's 'religious force' safety post and the Anthropic consciousness debate, Google's Gemini plan reshuffle, DeepSeek's 160,000-chip Huawei bet, plus the new wave of decision models.</description>
