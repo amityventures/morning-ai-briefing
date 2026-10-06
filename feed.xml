@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 05 Oct 2026 09:08:02 +0000</pubDate>
+    <pubDate>Tue, 06 Oct 2026 09:08:39 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, October 6, 2026</title>
+      <description>Alex and Jordan on Mistral's new model claim, the NYC Council's under-oath AI hearing, exit interviews with eight ex-lab researchers, Altman's harm threshold, Google's bug bounty flood, Tavus Griffin, and a 00B Nvidia-Apollo compute bet.</description>
+      <pubDate>Tue, 06 Oct 2026 09:03:09 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-october-6-2026-2026-10-06.mp3" length="4696161" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-october-6-2026-2026-10-06</guid>
+      <itunes:duration>391</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, October 5, 2026</title>
       <description>Alex and Jordan cover Yann LeCun's broadside against AI doomsday warnings, the tightening legal vise on OpenAI and Anthropic from the FTC and state attorneys general, the arrest of a California CEO over 00M in AI chip smuggling to China, and Google's launch of AI chips into orbit.</description>
