@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 06 Oct 2026 09:08:39 +0000</pubDate>
+    <pubDate>Wed, 07 Oct 2026 09:07:59 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, October 7, 2026</title>
+      <description>Alex and Jordan on OpenAI's textGrain watermarking for the EU, Reflection's 501B open-weight Beam, Meta parting ways with its Virtue AI safety team, the DOJ's super intelligence memo and the AI streaming-fraud sentencing, and the UK accepting 44 NHS AI recommendations.</description>
+      <pubDate>Wed, 07 Oct 2026 09:03:30 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-october-7-2026-2026-10-07.mp3" length="5350686" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-october-7-2026-2026-10-07</guid>
+      <itunes:duration>445</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, October 6, 2026</title>
       <description>Alex and Jordan on Mistral's new model claim, the NYC Council's under-oath AI hearing, exit interviews with eight ex-lab researchers, Altman's harm threshold, Google's bug bounty flood, Tavus Griffin, and a 00B Nvidia-Apollo compute bet.</description>
