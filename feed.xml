@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 07 Oct 2026 09:07:59 +0000</pubDate>
+    <pubDate>Thu, 08 Oct 2026 09:07:07 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, October 8, 2026</title>
+      <description>Alex and Jordan on Anthropic's Claude Haiku 5.5 price cut, OpenAI's 722-manuscript math dump, the Decisions API and Meetings plugin launches, Claude landing inside Google Workspace, a phishing platform impersonating six AI brands, and Meta's Muse on iPad.</description>
+      <pubDate>Thu, 08 Oct 2026 09:02:21 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-october-8-2026-2026-10-08.mp3" length="5030006" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-october-8-2026-2026-10-08</guid>
+      <itunes:duration>419</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, October 7, 2026</title>
       <description>Alex and Jordan on OpenAI's textGrain watermarking for the EU, Reflection's 501B open-weight Beam, Meta parting ways with its Virtue AI safety team, the DOJ's super intelligence memo and the AI streaming-fraud sentencing, and the UK accepting 44 NHS AI recommendations.</description>
