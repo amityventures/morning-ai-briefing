@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 08 Oct 2026 12:42:28 +0000</pubDate>
+    <pubDate>Fri, 09 Oct 2026 09:08:39 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, October 9, 2026</title>
+      <description>Alex and Jordan on OpenAI's GPT-6 rollout with Intelligent UI, Google Cloud's Gemini agent for work, Manus raising over five hundred million after the Meta exit, Lambda's four billion dollar raise, AI's big week in biology, and why chatbots resist climate change advice.</description>
+      <pubDate>Fri, 09 Oct 2026 09:02:33 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-october-9-2026-2026-10-09.mp3" length="5548798" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-october-9-2026-2026-10-09</guid>
+      <itunes:duration>462</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, October 8, 2026</title>
       <description>Alex and Jordan on Anthropic's Claude Haiku 5.5 price cut, OpenAI's 722-manuscript math dump, the Decisions API and Meetings plugin launches, Claude landing inside Google Workspace, a phishing platform impersonating six AI brands, and Meta's Muse on iPad.</description>
