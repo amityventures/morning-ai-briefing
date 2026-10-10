@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 09 Oct 2026 09:18:49 +0000</pubDate>
+    <pubDate>Sat, 10 Oct 2026 09:10:46 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, October 10, 2026</title>
+      <description>Alex and Jordan on TypeSafe AI's 70M raise for its non-text decision model, OpenAI's 0B revenue revision rattling AI stocks, the UK privacy regulator's pledges from 10 AI firms, and the first withdrawn math papers.</description>
+      <pubDate>Sat, 10 Oct 2026 09:03:09 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-october-10-2026-2026-10-10.mp3" length="6694529" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-october-10-2026-2026-10-10</guid>
+      <itunes:duration>557</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, October 9, 2026</title>
       <description>Alex and Jordan on OpenAI's GPT-6 rollout with Intelligent UI, Google Cloud's Gemini agent for work, Manus raising over five hundred million after the Meta exit, Lambda's four billion dollar raise, AI's big week in biology, and why chatbots resist climate change advice.</description>
