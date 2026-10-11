@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 10 Oct 2026 09:10:46 +0000</pubDate>
+    <pubDate>Sun, 11 Oct 2026 09:08:23 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, October 11, 2026</title>
+      <description>Alex and Jordan on Anthropic's fake homicide tip to Philly police, Nadella's emergency-brake call, Nvidia's talks with Reflection AI, and Grok bots taking over Grokipedia.</description>
+      <pubDate>Sun, 11 Oct 2026 09:02:56 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-october-11-2026-2026-10-11.mp3" length="5069503" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-october-11-2026-2026-10-11</guid>
+      <itunes:duration>422</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, October 10, 2026</title>
       <description>Alex and Jordan on TypeSafe AI's 70M raise for its non-text decision model, OpenAI's 0B revenue revision rattling AI stocks, the UK privacy regulator's pledges from 10 AI firms, and the first withdrawn math papers.</description>
