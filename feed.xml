@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 11 Oct 2026 09:08:23 +0000</pubDate>
+    <pubDate>Mon, 12 Oct 2026 09:06:14 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, October 12, 2026</title>
+      <description>Alex and Jordan on Amazon's reported B Decart acquisition talks, the big three labs coordinating on AI safety, the US reversing its model-sharing ban with Britain's AI Safety Institute, the White House's mandatory incident-reporting order, and a new poll showing most Americans want stronger AI oversight.</description>
+      <pubDate>Mon, 12 Oct 2026 09:02:28 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-october-12-2026-2026-10-12.mp3" length="4453850" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-october-12-2026-2026-10-12</guid>
+      <itunes:duration>371</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, October 11, 2026</title>
       <description>Alex and Jordan on Anthropic's fake homicide tip to Philly police, Nadella's emergency-brake call, Nvidia's talks with Reflection AI, and Grok bots taking over Grokipedia.</description>
