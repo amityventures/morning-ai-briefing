@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 14 Oct 2026 09:09:29 +0000</pubDate>
+    <pubDate>Thu, 15 Oct 2026 09:20:36 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, October 15, 2026</title>
+      <description>Alex and Jordan on eight states suing OpenAI over child safety, Anthropic's reported 6.8B third quarter, Nvidia's AI-defined fabs, Google's Deep Review and Earth AI, and a 0M fund for AI in city services.</description>
+      <pubDate>Thu, 15 Oct 2026 09:03:09 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-october-15-2026-2026-10-15.mp3" length="5871045" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-october-15-2026-2026-10-15</guid>
+      <itunes:duration>489</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, October 14, 2026</title>
       <description>Alex and Jordan on Google's Gemini 4 Argon launch, the alleged OpenAI recording-device arrest, the push for binding AI oversight, Anthropic outgrowing Git with Scion, and Liquid AI's laptop agent model.</description>
