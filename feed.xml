@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 16 Oct 2026 09:06:24 +0000</pubDate>
+    <pubDate>Sat, 17 Oct 2026 09:07:47 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, October 17, 2026</title>
+      <description>Alex and Jordan on OpenAI's four new misalignment disclosures, Claude designing quantum circuits that beat published bests, Mercedes and Volvo betting on Nvidia's driving stack, Anthropic's draft AI safety bill, and security warnings for agent tools.</description>
+      <pubDate>Sat, 17 Oct 2026 09:03:01 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-october-17-2026-2026-10-17.mp3" length="6523688" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-october-17-2026-2026-10-17</guid>
+      <itunes:duration>543</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, October 16, 2026</title>
       <description>Alex and Jordan on Meta's open-weight Muse Spark Open, Microsoft's 2.8-trillion-parameter MAI-Base-2, Nvidia's Nemotron 3.5 agent models, OpenAI's voice and Chrome push, and a policy squeeze from Washington and Beijing.</description>
