@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 17 Oct 2026 09:07:47 +0000</pubDate>
+    <pubDate>Sun, 18 Oct 2026 09:08:57 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, October 18, 2026</title>
+      <description>Alex and Jordan on the OpenCode Console breach, Claude solving a 25-year cryptography mystery, DeepSeek V4.1 Flash 1017, websites blocking AI agents, and Nvidia's looped Dory model.</description>
+      <pubDate>Sun, 18 Oct 2026 09:04:10 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-october-18-2026-2026-10-18.mp3" length="6925556" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-october-18-2026-2026-10-18</guid>
+      <itunes:duration>577</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, October 17, 2026</title>
       <description>Alex and Jordan on OpenAI's four new misalignment disclosures, Claude designing quantum circuits that beat published bests, Mercedes and Volvo betting on Nvidia's driving stack, Anthropic's draft AI safety bill, and security warnings for agent tools.</description>
