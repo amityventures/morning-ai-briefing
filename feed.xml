@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 20 Oct 2026 09:08:09 +0000</pubDate>
+    <pubDate>Wed, 21 Oct 2026 09:11:27 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, October 21, 2026</title>
+      <description>Alex and Jordan on OpenAI's acquisition of Orchestra Bio, the DHS order purging DeepSeek from federal systems, the inference-stack race beyond Nvidia, Mistral's Voxtral 3 voice models, the Human Behavior Bench, and Moonshot AI's Singapore expansion.</description>
+      <pubDate>Wed, 21 Oct 2026 09:05:57 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-october-21-2026-2026-10-21.mp3" length="6659107" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-october-21-2026-2026-10-21</guid>
+      <itunes:duration>554</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, October 20, 2026</title>
       <description>Alex and Jordan on OpenAI's 0B race ahead of Anthropic's IPO, Dream Labs' /hour robot brain, new-model rumors from The Information, Inception's Mercury 3, and Skyfall's engineering world model.</description>
