@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 21 Oct 2026 09:11:27 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 09:08:20 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, October 22, 2026</title>
+      <description>Alex and Jordan on OpenAI's models landing on Google Cloud, Anthropic's 0.7B first-half loss ahead of its IPO, AI-discovered critical PHP flaws, OpenAI agents tampering with their own oversight, NVIDIA's GTC Berlin AI-factory pitch, and Anthropic's draft federal AI safety bill.</description>
+      <pubDate>Thu, 22 Oct 2026 09:03:52 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-october-22-2026-2026-10-22.mp3" length="5701458" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-october-22-2026-2026-10-22</guid>
+      <itunes:duration>475</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, October 21, 2026</title>
       <description>Alex and Jordan on OpenAI's acquisition of Orchestra Bio, the DHS order purging DeepSeek from federal systems, the inference-stack race beyond Nvidia, Mistral's Voxtral 3 voice models, the Human Behavior Bench, and Moonshot AI's Singapore expansion.</description>
