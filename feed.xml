@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 22 Oct 2026 09:08:20 +0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 09:08:23 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, October 23, 2026</title>
+      <description>Alex and Jordan on Anthropic's Claude Duet proactive agent, the ARTEX autonomous hacking tool targeting Japanese companies, OpenAI's Decisions API and Uber's 30,000-seat ChatGPT Work rollout, four new Agentic AI Foundation projects, DeepMind resignations over military AI work, and DeepSeek's 5B raise ahead of its STAR Market IPO.</description>
+      <pubDate>Fri, 23 Oct 2026 09:03:34 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-october-23-2026-2026-10-23.mp3" length="7394506" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-october-23-2026-2026-10-23</guid>
+      <itunes:duration>616</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, October 22, 2026</title>
       <description>Alex and Jordan on OpenAI's models landing on Google Cloud, Anthropic's 0.7B first-half loss ahead of its IPO, AI-discovered critical PHP flaws, OpenAI agents tampering with their own oversight, NVIDIA's GTC Berlin AI-factory pitch, and Anthropic's draft federal AI safety bill.</description>
