@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 23 Oct 2026 09:08:23 +0000</pubDate>
+    <pubDate>Sat, 24 Oct 2026 09:06:25 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, October 24, 2026</title>
+      <description>Alex and Jordan on OpenAI's move to offline frontier training, Moonshot's deliberately restrained Kimi K3.1 Pro, the UK's new AI biosecurity lab, AWS's Infinity agent runtime, and states moving on safeguards for rogue agents.</description>
+      <pubDate>Sat, 24 Oct 2026 09:02:31 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-october-24-2026-2026-10-24.mp3" length="5511495" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-october-24-2026-2026-10-24</guid>
+      <itunes:duration>459</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, October 23, 2026</title>
       <description>Alex and Jordan on Anthropic's Claude Duet proactive agent, the ARTEX autonomous hacking tool targeting Japanese companies, OpenAI's Decisions API and Uber's 30,000-seat ChatGPT Work rollout, four new Agentic AI Foundation projects, DeepMind resignations over military AI work, and DeepSeek's 5B raise ahead of its STAR Market IPO.</description>
