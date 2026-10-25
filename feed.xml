@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 24 Oct 2026 09:06:25 +0000</pubDate>
+    <pubDate>Sun, 25 Oct 2026 09:06:23 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, October 25, 2026</title>
+      <description>Alex and Jordan on Block's speech-only Dessa voice model, Google's new Gmail and Photos ad-targeting exception, China's AI export registrations, the US Treasury's proposed outbound AI investment rule, and Axon's AI-heavy Body 5 camera.</description>
+      <pubDate>Sun, 25 Oct 2026 09:02:24 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-october-25-2026-2026-10-25.mp3" length="5720266" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-october-25-2026-2026-10-25</guid>
+      <itunes:duration>476</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, October 24, 2026</title>
       <description>Alex and Jordan on OpenAI's move to offline frontier training, Moonshot's deliberately restrained Kimi K3.1 Pro, the UK's new AI biosecurity lab, AWS's Infinity agent runtime, and states moving on safeguards for rogue agents.</description>
