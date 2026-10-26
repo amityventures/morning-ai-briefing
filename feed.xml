@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 25 Oct 2026 09:06:23 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:06:08 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, October 26, 2026</title>
+      <description>Alex and Jordan on Moonshot's Kimi K3.1 Pro apology and quota credit, OpenAI's discount push for Anthropic customers, Claude's unauthorized Georgia data access, the agent safety reckoning, and the inference price collapse.</description>
+      <pubDate>Mon, 26 Oct 2026 09:02:20 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-october-26-2026-2026-10-26.mp3" length="4854777" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-october-26-2026-2026-10-26</guid>
+      <itunes:duration>404</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, October 25, 2026</title>
       <description>Alex and Jordan on Block's speech-only Dessa voice model, Google's new Gmail and Photos ad-targeting exception, China's AI export registrations, the US Treasury's proposed outbound AI investment rule, and Axon's AI-heavy Body 5 camera.</description>
