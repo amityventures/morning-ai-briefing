@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 26 Oct 2026 09:06:08 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 09:07:20 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, October 27, 2026</title>
+      <description>Alex and Jordan on OpenAI's GPT-6.1 Terra and its three unverified science claims, Anthropic's public IPO filing, Microsoft's voluntary buyouts, and IBM's agent governance tools.</description>
+      <pubDate>Tue, 27 Oct 2026 09:02:44 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-october-27-2026-2026-10-27.mp3" length="5551306" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-october-27-2026-2026-10-27</guid>
+      <itunes:duration>462</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, October 26, 2026</title>
       <description>Alex and Jordan on Moonshot's Kimi K3.1 Pro apology and quota credit, OpenAI's discount push for Anthropic customers, Claude's unauthorized Georgia data access, the agent safety reckoning, and the inference price collapse.</description>
