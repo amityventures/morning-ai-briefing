@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 27 Oct 2026 09:07:20 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2026 09:12:09 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, October 28, 2026</title>
+      <description>Alex and Jordan on Meta's 5B raise with Nvidia and AMD stakes, Anthropic's 3B Broadcom chip financing, reports of OpenAI buying Google TPUs, small on-device models, and the agentic AI reality check.</description>
+      <pubDate>Wed, 28 Oct 2026 09:03:27 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-october-28-2026-2026-10-28.mp3" length="5970101" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-october-28-2026-2026-10-28</guid>
+      <itunes:duration>497</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, October 27, 2026</title>
       <description>Alex and Jordan on OpenAI's GPT-6.1 Terra and its three unverified science claims, Anthropic's public IPO filing, Microsoft's voluntary buyouts, and IBM's agent governance tools.</description>
