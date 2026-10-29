@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 28 Oct 2026 09:12:09 +0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 09:09:43 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, October 29, 2026</title>
+      <description>Alex and Jordan on Google's defenders-first Gemini 4 Carbon, the Alphabet versus Microsoft earnings split, Google's agent commerce push, Nvidia's open transcription model, and DeepMind's talk-back world model Genie 4.</description>
+      <pubDate>Thu, 29 Oct 2026 09:03:39 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-october-29-2026-2026-10-29.mp3" length="5805530" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-october-29-2026-2026-10-29</guid>
+      <itunes:duration>483</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, October 28, 2026</title>
       <description>Alex and Jordan on Meta's 5B raise with Nvidia and AMD stakes, Anthropic's 3B Broadcom chip financing, reports of OpenAI buying Google TPUs, small on-device models, and the agentic AI reality check.</description>
