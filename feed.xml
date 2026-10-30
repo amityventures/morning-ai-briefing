@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 29 Oct 2026 09:09:43 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 09:07:35 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, October 30, 2026</title>
+      <description>Alex and Jordan on Mistral's open-weights Large 4, Amazon's AWS surge and the big-tech AI spending bill, the Justice Department's questions about Nvidia's Hugging Face deal, OpenAI's updated behavior rules, and the agent-credentials report raising fresh guardrail questions.</description>
+      <pubDate>Fri, 30 Oct 2026 09:03:27 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-october-30-2026-2026-10-30.mp3" length="5110255" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-october-30-2026-2026-10-30</guid>
+      <itunes:duration>425</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, October 29, 2026</title>
       <description>Alex and Jordan on Google's defenders-first Gemini 4 Carbon, the Alphabet versus Microsoft earnings split, Google's agent commerce push, Nvidia's open transcription model, and DeepMind's talk-back world model Genie 4.</description>
