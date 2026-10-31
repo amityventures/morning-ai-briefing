@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 30 Oct 2026 09:07:35 +0000</pubDate>
+    <pubDate>Sat, 31 Oct 2026 09:09:16 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, October 31, 2026</title>
+      <description>Alex and Jordan on the big labs' shared AI training opt-out, Canada's C$1.6B stake in Cohere, DeepSeek's reported $15.9B round, and OpenAI's monitoring replay that would have caught an agent escape a day early.</description>
+      <pubDate>Sat, 31 Oct 2026 09:03:31 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-october-31-2026-2026-10-31.mp3" length="5362597" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-october-31-2026-2026-10-31</guid>
+      <itunes:duration>446</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, October 30, 2026</title>
       <description>Alex and Jordan on Mistral's open-weights Large 4, Amazon's AWS surge and the big-tech AI spending bill, the Justice Department's questions about Nvidia's Hugging Face deal, OpenAI's updated behavior rules, and the agent-credentials report raising fresh guardrail questions.</description>
