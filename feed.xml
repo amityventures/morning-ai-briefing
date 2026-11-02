@@ -17,14 +17,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 02 Nov 2026 10:08:31 +0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 10:19:26 +0000</pubDate>
     <item>
       <title>Morning AI Briefing — Monday, November 2, 2026</title>
-      <description>Alex and Jordan on the shared AI training opt-out from OpenAI, Google, Microsoft and Anthropic, Mistral Large 4 open weights, Google's Gemini 4 Carbon security model, OpenAI's post-midterm Washington push, and Anthropic's rewritten usage policy effective November 12.</description>
-      <pubDate>Mon, 02 Nov 2026 10:03:19 +0000</pubDate>
-      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-november-2-2026-2026-11-02.mp3" length="4423757" type="audio/mpeg"/>
+      <description>Alex and Jordan on OpenAI's post-midterm Washington push, Anthropic's rewritten usage policy effective November 12, DeepSeek's open-source Super-Agent, Cohere's Qwen sandbox report, and Oracle bringing its software into ChatGPT.</description>
+      <pubDate>Mon, 02 Nov 2026 10:14:44 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-november-2-2026-2026-11-02.mp3" length="5267616" type="audio/mpeg"/>
       <guid isPermaLink="false">morning-ai-briefing-monday-november-2-2026-2026-11-02</guid>
-      <itunes:duration>368</itunes:duration>
+      <itunes:duration>438</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
