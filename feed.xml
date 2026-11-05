@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 04 Nov 2026 10:11:58 +0000</pubDate>
+    <pubDate>Thu, 05 Nov 2026 10:13:01 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, November 5, 2026</title>
+      <description>Alex and Jordan on Tencent's Hy4 flagship with vision, Claude helping solve a protein vault structure, Apple Intelligence coming to China on Alibaba's Qwen, Fal's $1.3B raise, and CrowdStrike's AI security moves.</description>
+      <pubDate>Thu, 05 Nov 2026 10:08:18 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-november-5-2026-2026-11-05.mp3" length="4741615" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-november-5-2026-2026-11-05</guid>
+      <itunes:duration>395</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, November 4, 2026</title>
       <description>Alex and Jordan on enterprise AI spending concentrating around three vendors, China's fast-moving AI law, Google's opt-in switch for schools, robots handling tasks they've never seen, and Cohere opening its vault to rival models.</description>
