@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 05 Nov 2026 10:13:01 +0000</pubDate>
+    <pubDate>Fri, 06 Nov 2026 10:09:21 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, November 6, 2026</title>
+      <description>Alex and Jordan on OpenAI's GPT-6 Cyber security model, METR's finding that AI is speeding up Anthropic's own research, Claude's read-only bank access, Google's cheaper longer video model, and Thinking Machines Lab's Inkling 2 Small.</description>
+      <pubDate>Fri, 06 Nov 2026 10:03:10 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-november-6-2026-2026-11-06.mp3" length="4800547" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-november-6-2026-2026-11-06</guid>
+      <itunes:duration>399</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, November 5, 2026</title>
       <description>Alex and Jordan on Tencent's Hy4 flagship with vision, Claude helping solve a protein vault structure, Apple Intelligence coming to China on Alibaba's Qwen, Fal's $1.3B raise, and CrowdStrike's AI security moves.</description>
