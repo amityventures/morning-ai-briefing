@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 06 Nov 2026 10:09:21 +0000</pubDate>
+    <pubDate>Sat, 07 Nov 2026 10:06:45 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, November 7, 2026</title>
+      <description>Alex and Jordan on OpenAI's 1B raise at a .25T valuation, Anthropic's IPO bids cooling, flat corporate AI spending, DeepMind's agents finding weaknesses in legacy RSA, and open models closing the gap on hacking tasks.</description>
+      <pubDate>Sat, 07 Nov 2026 10:02:31 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-november-7-2026-2026-11-07.mp3" length="4787381" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-november-7-2026-2026-11-07</guid>
+      <itunes:duration>398</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, November 6, 2026</title>
       <description>Alex and Jordan on OpenAI's GPT-6 Cyber security model, METR's finding that AI is speeding up Anthropic's own research, Claude's read-only bank access, Google's cheaper longer video model, and Thinking Machines Lab's Inkling 2 Small.</description>
