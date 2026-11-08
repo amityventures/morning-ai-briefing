@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 07 Nov 2026 10:06:45 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 10:07:16 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, November 8, 2026</title>
+      <description>Alex and Jordan on Moonshot's open-weights Kimi K3.1 Pro, Meta pausing its AI training terms, NVIDIA chip-location tracking, xAI's jet-engine generators at Colossus 2, and Anthropic's IPO roadshow.</description>
+      <pubDate>Sun, 08 Nov 2026 10:02:28 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-november-8-2026-2026-11-08.mp3" length="4635348" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-november-8-2026-2026-11-08</guid>
+      <itunes:duration>386</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, November 7, 2026</title>
       <description>Alex and Jordan on OpenAI's 1B raise at a .25T valuation, Anthropic's IPO bids cooling, flat corporate AI spending, DeepMind's agents finding weaknesses in legacy RSA, and open models closing the gap on hacking tasks.</description>
