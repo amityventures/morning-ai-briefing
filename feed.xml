@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 08 Nov 2026 10:07:16 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:08:56 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, November 9, 2026</title>
+      <description>Alex and Jordan on the Claude Code credential leak, LG's free K-EXAONE 2.5 API, Meta's Active Memory rollout, the Cursor cutoff and Conductor acquisition, and agent protocols going stable.</description>
+      <pubDate>Mon, 09 Nov 2026 10:03:50 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-november-9-2026-2026-11-09.mp3" length="5974176" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-november-9-2026-2026-11-09</guid>
+      <itunes:duration>497</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, November 8, 2026</title>
       <description>Alex and Jordan on Moonshot's open-weights Kimi K3.1 Pro, Meta pausing its AI training terms, NVIDIA chip-location tracking, xAI's jet-engine generators at Colossus 2, and Anthropic's IPO roadshow.</description>
