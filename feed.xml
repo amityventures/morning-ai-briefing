@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 09 Nov 2026 10:08:56 +0000</pubDate>
+    <pubDate>Tue, 10 Nov 2026 10:08:56 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, November 10, 2026</title>
+      <description>Alex and Jordan on Anthropic's Claude Fable 5.2 topping the benchmark charts, Meta's tiny Muse Ember, Australia's new AI safety regulator, ChatGPT Enterprise on AWS Marketplace, and the Adobe-Disney AI alliance.</description>
+      <pubDate>Tue, 10 Nov 2026 10:03:56 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-november-10-2026-2026-11-10.mp3" length="5300530" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-november-10-2026-2026-11-10</guid>
+      <itunes:duration>441</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, November 9, 2026</title>
       <description>Alex and Jordan on the Claude Code credential leak, LG's free K-EXAONE 2.5 API, Meta's Active Memory rollout, the Cursor cutoff and Conductor acquisition, and agent protocols going stable.</description>
