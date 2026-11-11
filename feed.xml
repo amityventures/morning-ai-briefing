@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 10 Nov 2026 10:08:56 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 10:07:49 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, November 11, 2026</title>
+      <description>Alex and Jordan on Google's Gemini 4 Carbon, Anthropic's IPO roadshow and Claude productivity suite, OpenAI's Control Room safety system, New York's AI safety registration, and a big week for robotics.</description>
+      <pubDate>Wed, 11 Nov 2026 10:02:11 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-november-11-2026-2026-11-11.mp3" length="4242885" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-november-11-2026-2026-11-11</guid>
+      <itunes:duration>353</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, November 10, 2026</title>
       <description>Alex and Jordan on Anthropic's Claude Fable 5.2 topping the benchmark charts, Meta's tiny Muse Ember, Australia's new AI safety regulator, ChatGPT Enterprise on AWS Marketplace, and the Adobe-Disney AI alliance.</description>
