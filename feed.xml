@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 12 Nov 2026 12:57:40 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 10:07:56 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, November 13, 2026</title>
+      <description>Alex and Jordan on Jensen Huang's resignation from Nvidia, Google's Gemini 4 Hydrogen, Anthropic's self-hosted Claude Managed Agents, OpenAI's Daybreak security tools, SpaceX's 4B compute campuses, and a lawsuit to halt frontier AI development.</description>
+      <pubDate>Fri, 13 Nov 2026 10:03:04 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-november-13-2026-2026-11-13.mp3" length="4713716" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-november-13-2026-2026-11-13</guid>
+      <itunes:duration>392</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, November 12, 2026</title>
       <description>Alex and Jordan on Nvidia's board weighing Jensen Huang's future, Anthropic's oversubscribed IPO, Google's Gemini Decision 1, DeepMind's AlphaGenome 2, and Runway's open Praxis-1 robot model.</description>
