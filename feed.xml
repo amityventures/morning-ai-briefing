@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 13 Nov 2026 10:07:56 +0000</pubDate>
+    <pubDate>Sat, 14 Nov 2026 10:07:19 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, November 14, 2026</title>
+      <description>Alex and Jordan on the Blackwell chip fingerprinting findings, Nvidia's brutal week, Anthropic's oversubscribed IPO, LangChain's 00M round, llama.cpp 1.0, and Nebius's 0B infrastructure bet.</description>
+      <pubDate>Sat, 14 Nov 2026 10:02:34 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-november-14-2026-2026-11-14.mp3" length="5762271" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-november-14-2026-2026-11-14</guid>
+      <itunes:duration>480</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, November 13, 2026</title>
       <description>Alex and Jordan on Jensen Huang's resignation from Nvidia, Google's Gemini 4 Hydrogen, Anthropic's self-hosted Claude Managed Agents, OpenAI's Daybreak security tools, SpaceX's 4B compute campuses, and a lawsuit to halt frontier AI development.</description>
