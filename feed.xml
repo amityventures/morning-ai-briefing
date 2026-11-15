@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 14 Nov 2026 10:07:19 +0000</pubDate>
+    <pubDate>Sun, 15 Nov 2026 10:09:14 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, November 15, 2026</title>
+      <description>Alex and Jordan on OpenAI's ChatGPT Wallet letting agents pay, the 30-hour Microsoft 365 outage, Claude joining your Google Meet calls, and Edge0's 145-billion-parameter model that runs on a laptop.</description>
+      <pubDate>Sun, 15 Nov 2026 10:03:42 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-november-15-2026-2026-11-15.mp3" length="5924021" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-november-15-2026-2026-11-15</guid>
+      <itunes:duration>493</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, November 14, 2026</title>
       <description>Alex and Jordan on the Blackwell chip fingerprinting findings, Nvidia's brutal week, Anthropic's oversubscribed IPO, LangChain's 00M round, llama.cpp 1.0, and Nebius's 0B infrastructure bet.</description>
