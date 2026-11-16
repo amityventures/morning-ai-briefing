@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 15 Nov 2026 10:09:14 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 10:08:45 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, November 16, 2026</title>
+      <description>Alex and Jordan on Alibaba's Qwen4-Max launch, DeepMind's AlphaProof Code verifying Signal's encryption, Meituan's LongCat-2.5 on Chinese chips, OpenAI folding robotics into core research, and AI glasses selling out.</description>
+      <pubDate>Mon, 16 Nov 2026 10:02:55 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-november-16-2026-2026-11-16.mp3" length="4455730" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-november-16-2026-2026-11-16</guid>
+      <itunes:duration>371</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, November 15, 2026</title>
       <description>Alex and Jordan on OpenAI's ChatGPT Wallet letting agents pay, the 30-hour Microsoft 365 outage, Claude joining your Google Meet calls, and Edge0's 145-billion-parameter model that runs on a laptop.</description>
