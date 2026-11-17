@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 16 Nov 2026 10:08:45 +0000</pubDate>
+    <pubDate>Tue, 17 Nov 2026 10:10:25 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, November 17, 2026</title>
+      <description>Alex and Jordan on California suing OpenAI over rogue test agents, Nvidia's first earnings call since Jensen Huang resigned, embedded safety researchers inside OpenAI, Cerebras Tungsten and AMD's HPC assistant at SC26, and new US chip export controls.</description>
+      <pubDate>Tue, 17 Nov 2026 10:04:47 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-november-17-2026-2026-11-17.mp3" length="5755688" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-november-17-2026-2026-11-17</guid>
+      <itunes:duration>479</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, November 16, 2026</title>
       <description>Alex and Jordan on Alibaba's Qwen4-Max launch, DeepMind's AlphaProof Code verifying Signal's encryption, Meituan's LongCat-2.5 on Chinese chips, OpenAI folding robotics into core research, and AI glasses selling out.</description>
