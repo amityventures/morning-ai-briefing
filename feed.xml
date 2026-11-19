@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 18 Nov 2026 10:08:49 +0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 10:10:03 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, November 19, 2026</title>
+      <description>Alex and Jordan on Anthropic's record 3 IPO pricing ahead of its Nasdaq debut, Google's Gemini 4 Neon coding model, Nvidia halting licensed Hopper chip shipments to China, and OpenAI's models redesigning AMD's flagship GPU.</description>
+      <pubDate>Thu, 19 Nov 2026 10:02:59 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-november-19-2026-2026-11-19.mp3" length="4708073" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-november-19-2026-2026-11-19</guid>
+      <itunes:duration>392</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, November 18, 2026</title>
       <description>Alex and Jordan on OpenAI's GPT-6.2 Astra and Sol, Nvidia's blockbuster quarter under interim CEO Colette Kress, Microsoft's Ignite announcements, and Isomorphic Labs' B raise.</description>
