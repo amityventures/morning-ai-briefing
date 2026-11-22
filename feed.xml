@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sat, 21 Nov 2026 10:10:20 +0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 10:08:58 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Sunday, November 22, 2026</title>
+      <description>Alex and Jordan on Thinking Machines' laptop-sized Inkling 2 Mini, Anthropic's rough second day as a public company, METR's time-horizon update, OpenAI's GPT-Live-1.1 voice API, and a data-retention warning from OpenRouter.</description>
+      <pubDate>Sun, 22 Nov 2026 10:03:39 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-sunday-november-22-2026-2026-11-22.mp3" length="4769513" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-sunday-november-22-2026-2026-11-22</guid>
+      <itunes:duration>397</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Saturday, November 21, 2026</title>
       <description>Alex and Jordan on the claimed Riemann hypothesis proof with Claude, the AI-assisted cyberattack on the European Commission, Arizona's criminal investigation into OpenAI over bank agents, and OpenAI's defenses against adversarial distillation.</description>
