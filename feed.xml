@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Sun, 22 Nov 2026 10:08:58 +0000</pubDate>
+    <pubDate>Mon, 23 Nov 2026 10:08:21 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Monday, November 23, 2026</title>
+      <description>Alex and Jordan on the Lean-certified Riemann hypothesis proof, Anthropic's volatile first week as a public company, Google's Gemini 4 Neon pricing flip, and Z.ai's GLM-5.4.</description>
+      <pubDate>Mon, 23 Nov 2026 10:03:50 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-monday-november-23-2026-2026-11-23.mp3" length="5645347" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-monday-november-23-2026-2026-11-23</guid>
+      <itunes:duration>470</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Sunday, November 22, 2026</title>
       <description>Alex and Jordan on Thinking Machines' laptop-sized Inkling 2 Mini, Anthropic's rough second day as a public company, METR's time-horizon update, OpenAI's GPT-Live-1.1 voice API, and a data-retention warning from OpenRouter.</description>
