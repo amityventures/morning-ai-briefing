@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Mon, 23 Nov 2026 10:08:21 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 10:11:19 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Tuesday, November 24, 2026</title>
+      <description>Alex and Jordan on Nvidia reinstating Jensen Huang, Anthropic's Claude Ship agents deciding what code merges, DeepMind's formally verified quantum algorithms, GPT-6.2 Sol reaching ChatGPT's Chat tab, and OpenAI and Cisco's Shirudo.</description>
+      <pubDate>Tue, 24 Nov 2026 10:02:39 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-tuesday-november-24-2026-2026-11-24.mp3" length="4845373" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-tuesday-november-24-2026-2026-11-24</guid>
+      <itunes:duration>403</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Monday, November 23, 2026</title>
       <description>Alex and Jordan on the Lean-certified Riemann hypothesis proof, Anthropic's volatile first week as a public company, Google's Gemini 4 Neon pricing flip, and Z.ai's GLM-5.4.</description>
