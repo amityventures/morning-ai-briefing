@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Tue, 24 Nov 2026 10:11:19 +0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 10:11:07 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Wednesday, November 25, 2026</title>
+      <description>Alex and Jordan on the AI-written VP versus VNP proofs from Anthropic and OpenAI, Walmart letting Meta's Muse shop Black Friday deals, Muse's UK launch and the FCA's warning, OpenAI's OpenWorks for small businesses, and Google's AI Mode connecting to Drive and Wallet.</description>
+      <pubDate>Wed, 25 Nov 2026 10:03:28 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-wednesday-november-25-2026-2026-11-25.mp3" length="6487639" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-wednesday-november-25-2026-2026-11-25</guid>
+      <itunes:duration>540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Tuesday, November 24, 2026</title>
       <description>Alex and Jordan on Nvidia reinstating Jensen Huang, Anthropic's Claude Ship agents deciding what code merges, DeepMind's formally verified quantum algorithms, GPT-6.2 Sol reaching ChatGPT's Chat tab, and OpenAI and Cisco's Shirudo.</description>
