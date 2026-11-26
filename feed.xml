@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Wed, 25 Nov 2026 10:11:07 +0000</pubDate>
+    <pubDate>Thu, 26 Nov 2026 10:08:05 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Thursday, November 26, 2026</title>
+      <description>Alex and Jordan on Nvidia's 2.9B Hugging Face deal, GPT-6 designing proteins, Claude artifacts as desktop apps, Cognition's SWE-2.1, and New York's AI chatbot toy ban.</description>
+      <pubDate>Thu, 26 Nov 2026 10:03:04 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-thursday-november-26-2026-2026-11-26.mp3" length="5538140" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-thursday-november-26-2026-2026-11-26</guid>
+      <itunes:duration>461</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Wednesday, November 25, 2026</title>
       <description>Alex and Jordan on the AI-written VP versus VNP proofs from Anthropic and OpenAI, Walmart letting Meta's Muse shop Black Friday deals, Muse's UK launch and the FCA's warning, OpenAI's OpenWorks for small businesses, and Google's AI Mode connecting to Drive and Wallet.</description>
