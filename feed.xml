@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Thu, 26 Nov 2026 10:08:05 +0000</pubDate>
+    <pubDate>Fri, 27 Nov 2026 10:17:35 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Friday, November 27, 2026</title>
+      <description>Alex and Jordan on OpenAI's shared usage allowance, Claude rewriting Anthropic's own API in Rust, Google's Cogentic math papers, Dell's blockbuster AI server quarter, and the Claude Code talent moves to OpenAI.</description>
+      <pubDate>Fri, 27 Nov 2026 10:03:39 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-friday-november-27-2026-2026-11-27.mp3" length="5291440" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-friday-november-27-2026-2026-11-27</guid>
+      <itunes:duration>440</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Thursday, November 26, 2026</title>
       <description>Alex and Jordan on Nvidia's 2.9B Hugging Face deal, GPT-6 designing proteins, Claude artifacts as desktop apps, Cognition's SWE-2.1, and New York's AI chatbot toy ban.</description>
