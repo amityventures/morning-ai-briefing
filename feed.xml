@@ -17,7 +17,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://amityventures.github.io/morning-ai-briefing/cover.png"/>
-    <pubDate>Fri, 27 Nov 2026 18:38:17 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 10:10:00 +0000</pubDate>
+    <item>
+      <title>Morning AI Briefing — Saturday, November 28, 2026</title>
+      <description>Alex and Jordan on OpenAI countersuing Apple, the TrojanPony malware campaign in coding-agent skills, Sber's open-weight GigaChat 4, a lab-run AI safety standards body, and AI agents' big Black Friday.</description>
+      <pubDate>Sat, 28 Nov 2026 10:03:23 +0000</pubDate>
+      <enclosure url="https://amityventures.github.io/morning-ai-briefing/morning-ai-briefing-saturday-november-28-2026-2026-11-28.mp3" length="5295201" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-ai-briefing-saturday-november-28-2026-2026-11-28</guid>
+      <itunes:duration>441</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning AI Briefing — Friday, November 27, 2026</title>
       <description>Alex and Jordan on OpenAI's shared usage allowance, Claude rewriting Anthropic's own API in Rust, Google's Cogentic math papers, Dell's blockbuster AI server quarter, and the Claude Code talent moves to OpenAI.</description>
